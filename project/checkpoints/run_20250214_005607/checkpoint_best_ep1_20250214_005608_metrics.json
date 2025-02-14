@@ -1,0 +1,15 @@
+{
+    "episode_lengths": [
+        27
+    ],
+    "collision_rates": [
+        0.037037037037037035
+    ],
+    "losses": [
+        0.0
+    ],
+    "safety_values": [
+        0.5096926159328885
+    ],
+    "best_safety_value": 0.5096926159328885
+}
